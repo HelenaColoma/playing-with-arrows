@@ -1,2 +1,2 @@
 # playing-with-arrows
-Small game to practise movement with arrow keys on JS
+A small JS game to practise moving an element around the screen using arrow keys
